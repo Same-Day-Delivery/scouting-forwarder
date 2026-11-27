@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/(.*)", "destination": "https://forms.fillout.com/t/7LCgtQg1jCus", "permanent": false }
+  ]
+}
